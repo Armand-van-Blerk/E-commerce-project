@@ -1,12 +1,12 @@
 import React from "react";
 import "./App.css";
 
-import HomePgae from "./homepage.component";
+import HomePage from "./pages/homepage/homepage.component";
 
 function App() {
   return (
     <div>
-      <HomePgae />
+      <HomePage />
     </div>
   );
 }
